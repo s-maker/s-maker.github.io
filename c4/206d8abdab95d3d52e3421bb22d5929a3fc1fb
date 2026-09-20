@@ -1,0 +1,36 @@
+.github/dependabot.yml
+  h_4f28c002bc83a2 1-7
+.gitignore
+  h_4f28c002bc83a2 1-8
+_config.fluid.yml
+  h_4f28c002bc83a2 1-1155
+_config.yml
+  h_4f28c002bc83a2 1-106
+package-lock.json
+  h_4f28c002bc83a2 1-3160
+package.json
+  h_4f28c002bc83a2 1-28
+pnpm-lock.yaml
+  h_4f28c002bc83a2 1-1869
+pnpm-workspace.yaml
+  h_4f28c002bc83a2 1-2
+scaffolds/draft.md
+  h_4f28c002bc83a2 1-4
+scaffolds/page.md
+  h_4f28c002bc83a2 1-4
+scaffolds/post.md
+  h_4f28c002bc83a2 1-5
+source/_posts/由来.md
+  h_4f28c002bc83a2 1-18
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "c4206d8abdab95d3d52e3421bb22d5929a3fc1fb",
+  "prompts": {},
+  "humans": {
+    "h_4f28c002bc83a2": {
+      "author": "leon.miao <leon.miao@jtexpress.com>"
+    }
+  }
+}

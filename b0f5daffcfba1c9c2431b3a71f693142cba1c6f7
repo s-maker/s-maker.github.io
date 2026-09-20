@@ -1,0 +1,18 @@
+2018/04/22/由来/index.html
+  h_4f28c002bc83a2 390
+about/index.html
+  h_4f28c002bc83a2 1-590
+local-search.xml
+  h_4f28c002bc83a2 11
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "b0f5daffcfba1c9c2431b3a71f693142cba1c6f7",
+  "prompts": {},
+  "humans": {
+    "h_4f28c002bc83a2": {
+      "author": "leon.miao <leon.miao@jtexpress.com>"
+    }
+  }
+}

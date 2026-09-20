@@ -1,0 +1,14 @@
+source/about/index.md
+  h_4f28c002bc83a2 1-8
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "3bb53636cd9c1a891d0b41d469d997fbda49687a",
+  "prompts": {},
+  "humans": {
+    "h_4f28c002bc83a2": {
+      "author": "leon.miao <leon.miao@jtexpress.com>"
+    }
+  }
+}

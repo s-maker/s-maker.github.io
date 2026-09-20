@@ -1,0 +1,16 @@
+_config.fluid.yml
+  h_4f28c002bc83a2 522
+source/_posts/八年之后，博客复活.md
+  h_4f28c002bc83a2 1-37
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "7ecd47eafc4da1f4783a131d3113371b3cd2c407",
+  "prompts": {},
+  "humans": {
+    "h_4f28c002bc83a2": {
+      "author": "leon.miao <leon.miao@jtexpress.com>"
+    }
+  }
+}

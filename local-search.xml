@@ -4,11 +4,30 @@
   
   
   <entry>
+    <title>八年之后，博客复活</title>
+    <link href="/2026/09/20/%E5%85%AB%E5%B9%B4%E4%B9%8B%E5%90%8E%EF%BC%8C%E5%8D%9A%E5%AE%A2%E5%A4%8D%E6%B4%BB/"/>
+    <url>/2026/09/20/%E5%85%AB%E5%B9%B4%E4%B9%8B%E5%90%8E%EF%BC%8C%E5%8D%9A%E5%AE%A2%E5%A4%8D%E6%B4%BB/</url>
+    
+    <content type="html"><![CDATA[<p>这个博客的地址，我自己忘了。</p><p>不是比喻。周日早上我想起来还有这么个站，打开 GitHub 看见一个叫 s-maker.github.io 的仓库，26 个 commit 停在 2018 年 7 月 22 日——“Site updated: 2018-07-22 18:23:53”。地址是什么，想不起来了。</p><p>找人问。对方一分钟就把站点翻出来：还在线，能访问，标题「出租车司机」，作者苗琳，一共一篇文章，《由来》，讲这个名字的来历，还嵌着一个 2018 年的 B 站视频。整站内容二十来个字，荒了八年。</p><h2 id="车还在，钥匙没了"><a href="#车还在，钥匙没了" class="headerlink" title="车还在，钥匙没了"></a>车还在，钥匙没了</h2><p>真正的问题不是忘了地址，是发现钥匙早丢了。</p><p>仓库里躺着的是 Hexo 编译出来的 HTML——当年 <code>hexo deploy</code> 只把产物推上 GitHub，写文章用的 markdown 源文件留在我自己电脑上。那台电脑后来去了哪里，和这台博客一起，都没了下文。</p><p>好在 RSS 还在。atom.xml 这个十几年前博客时代的遗产，忠实地存着《由来》的全文。从 feed 里把正文剥出来，反向还原成 markdown，旧文算是救回来了。B 站视频的 iframe 都还在，aid&#x3D;6084672，2018 年的播放器代码，居然还能播。</p><h2 id="复活"><a href="#复活" class="headerlink" title="复活"></a>复活</h2><p>重建比当年容易得多——容易到有点不好意思。</p><p>Hexo 3.7 换成了 Hexo 8，NexT 主题换成了 Fluid，暗色模式、本地搜索这些当年要折腾半天的东西现在是默认功能。搭环境、装主题、改配置、部署上线，全部是我说话、AI 动手，中间它还顺手处理了几个我不会知道的报错。从”忘了地址”到新站上线，一个上午。</p><p>这次学乖了两件事：</p><p>一是源码进了单独的分支，和编译产物分开住。再换电脑、再过八年，文章的 markdown 都在仓库里，钥匙不会再丢。</p><p>二是留了后路：旧站打包成 zip 存在本地，原始 commit 也推了个备份分支。2018 年那个挂着 canvas-nest 粒子特效和”Fork me on GitHub”绶带的页面，想它的时候还能看一眼。</p><h2 id="出车"><a href="#出车" class="headerlink" title="出车"></a>出车</h2><p>《由来》里说这是名字的来源。八年没动，里程表几乎没走，但车没坏，油箱里还有油。</p><p>出租车司机重新出车。这一篇，算是打表。</p>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>题外话</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>由来</title>
     <link href="/2018/04/22/%E7%94%B1%E6%9D%A5/"/>
     <url>/2018/04/22/%E7%94%B1%E6%9D%A5/</url>
     
-    <content type="html"><![CDATA[<h1 id="由来"><a href="#由来" class="headerlink" title="由来"></a>由来</h1><ul><li>名字的来源</li></ul><h2 id="视频"><a href="#视频" class="headerlink" title="视频"></a>视频</h2><iframe src="//player.bilibili.com/player.html?aid=6084672&cid=9878312&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" width="100%" height="412px" allowfullscreen="true"> </iframe><h2 id="反馈与建议"><a href="#反馈与建议" class="headerlink" title="反馈与建议"></a>反馈与建议</h2><ul><li>邮箱：<a href="mailto:&#x6d;&#105;&#x61;&#x6f;&#x6c;&#105;&#110;&#46;&#x62;&#x6c;&#97;&#x63;&#107;&#x40;&#x67;&#x6d;&#97;&#x69;&#x6c;&#x2e;&#x63;&#x6f;&#x6d;">miaolin.black@gmail.com</a></li></ul>]]></content>
+    <content type="html"><![CDATA[<h1 id="由来"><a href="#由来" class="headerlink" title="由来"></a>由来</h1><ul><li>名字的来源</li></ul><h2 id="视频"><a href="#视频" class="headerlink" title="视频"></a>视频</h2><iframe src="//player.bilibili.com/player.html?aid=6084672&cid=9878312&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" width="100%" height="412px" allowfullscreen="true"> </iframe><h2 id="反馈与建议"><a href="#反馈与建议" class="headerlink" title="反馈与建议"></a>反馈与建议</h2><ul><li>邮箱：<a href="mailto:&#x6d;&#105;&#97;&#x6f;&#108;&#x69;&#x6e;&#x2e;&#98;&#108;&#97;&#x63;&#107;&#x40;&#103;&#109;&#x61;&#105;&#x6c;&#x2e;&#99;&#111;&#109;">miaolin.black@gmail.com</a></li></ul>]]></content>
     
     
     

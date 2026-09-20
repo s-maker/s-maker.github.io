@@ -1,0 +1,32 @@
+2018/04/22/由来/index.html
+  h_4f28c002bc83a2 390,461-466
+2026/09/20/八年之后，博客复活/index.html
+  h_4f28c002bc83a2 1-802
+archives/2018/04/index.html
+  h_4f28c002bc83a2 327
+archives/2018/index.html
+  h_4f28c002bc83a2 327
+archives/2026/09/index.html
+  h_4f28c002bc83a2 1-461
+archives/2026/index.html
+  h_4f28c002bc83a2 1-461
+archives/index.html
+  h_4f28c002bc83a2 327,333-341
+index.html
+  h_4f28c002bc83a2 297,332-371
+local-search.xml
+  h_4f28c002bc83a2 6-24,30
+tags/题外话/index.html
+  h_4f28c002bc83a2 331,337-345
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "3b42b6f3b95fe8ae85826e03d042611ca3515bab",
+  "prompts": {},
+  "humans": {
+    "h_4f28c002bc83a2": {
+      "author": "leon.miao <leon.miao@jtexpress.com>"
+    }
+  }
+}
